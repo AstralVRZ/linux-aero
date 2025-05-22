@@ -45,6 +45,14 @@ and then set the theme to the one in use either with `gsettings` or the `dconf` 
 To install the GTK theme, copy the `diinki-aero` folder in `GTKTheme` to your `~/.themes` directory,
 and then set the GTK theme to "diinki-aero" with either `gsettings` or the `dconf` application.
 
+# Extra application
+
+These are some applications I installed because I did this on a clean install.
+
+- `hyprshot` for taking screenshots
+- `cliphist` clipboard history, works with wofi!
+- `gnome-tweaks` to easily change the theme (I couldn't figure out dconf or gsettingss)
+
 # The Default Keybinds ⌨️
 
 You can edit the keybinds in the hyprland config file as needed to match your preference, by default the most important ones:
@@ -62,4 +70,4 @@ You can edit the keybinds in the hyprland config file as needed to match your pr
 
 # Updates & Changes
 
-Aspects and components of this rice will change with time, until I have a finalized design, I'll make specific releases on the github releases page.
+Aspects and components of this rice will change with time, until Diinki has a finalized design, Diinki will make specific releases on the github releases page of their repo.
