@@ -1,7 +1,7 @@
 # Diinki Aero
 
-This is my frutiger aero themed rice, I will likely update it with time; so you can head over to the releases page for more concrete versions.
-I made a video of this rice, which you can watch here:
+This is Diinki's frutiger aero themed rice, wich I modified a bit. I'm going to keep it up to date with the main repo.
+Check ou the original Diinki video here!:
 https://www.youtube.com/watch?v=Tx9dHc0MyHs
 
 ![alt text](./wallpapers/aquarium.png)
